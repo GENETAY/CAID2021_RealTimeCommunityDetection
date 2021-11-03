@@ -12,6 +12,6 @@ Then, for the plots, the file "pos_kamada_whole_graph.pkl" is used. This file co
 
 Videos are also available at:  https://www.youtube.com/watch?v=caWTa7xIFPs and https://www.youtube.com/watch?v=LPBuE0kBIr4
 
-In addition, one can find some images and gif in file "annexe".
+In addition, one can find some images in file "annexe".
 Sorry, I was not able to upload raw data concerning system 201 because the dataframe is 29Mo big.
 Send me an email at genetay.edouard@gmail.com or egenetay@lumenai.fr if your are interested in.
